@@ -161,8 +161,7 @@ input, textarea {
 html { font-family: var(--ff-poppins); }
 
 body { 
-background: var(--eerie-black-2);
-/*   background-image: url('./assets/images/Wallpaper_Ryu.png'); */
+  background-image: url('images/Wallpaper_Ryu.png');
   background-repeat: no-repeat; 
   background-size: cover; 
   background-position: center; 
