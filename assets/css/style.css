@@ -160,8 +160,7 @@ input, textarea {
 
 html { font-family: var(--ff-poppins); }
 
-body { 
-  background: var(--orange-yellow-crayola);
+body { background: var(-eerie-black-2);
 }
 
 
