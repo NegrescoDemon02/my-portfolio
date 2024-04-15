@@ -160,7 +160,7 @@ input, textarea {
 
 html { font-family: var(--ff-poppins); }
 
-body { background-image: url('images/Wallpaper_Ryu.png');
+body { background-image: url('./images/Wallpaper_Ryu.png');
   background-repeat: no-repeat; 
   background-size: cover; 
   background-position: center; 
